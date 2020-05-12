@@ -1,0 +1,5 @@
+cd BlogByJiangxue/Scripts
+activate
+cd ..
+cd ..
+python manage.py runserver
